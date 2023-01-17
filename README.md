@@ -1,11 +1,3 @@
 # startup
 
-I was told to edit this.
-
-I am now editing this in GitHub. BTW, the above change was local.
-
-
-A conflict that will happen
-
-I am changing this a third time from GitHub, as instructed.
-
+I actually had to use Git for my job during the summer so none of this is new, but regardless, this method of managing workflow is very cool.
