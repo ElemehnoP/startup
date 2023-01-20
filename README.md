@@ -16,3 +16,6 @@ victor feeling confident that their victory is deserved. As a bonus, Mastermind 
     - Fun
     - Customizable rules
     - Easy to learn
+
+![Project proposal graphic](https://github.com/ElemehnoP/startup/blob/main/cs260ProjectProposalGraphic.pdf)
+
