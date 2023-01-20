@@ -18,4 +18,4 @@ victor feeling confident that their victory is deserved. As a bonus, Mastermind 
     - Easy to learngit s
     
     
-![asd](https://github.com/ElemehnoP/startup/blob/main/testIMG.pdf)
+![Project proposal graphic]([https://github.com/ElemehnoP/startup/blob/main/testIMG.pdf](https://github.com/ElemehnoP/startup/blob/main/cs260ProjectProposalGraphic.pdf))
