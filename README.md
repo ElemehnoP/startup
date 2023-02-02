@@ -19,5 +19,9 @@ victor feeling confident that their victory is deserved. As a bonus, Mastermind 
 
 ![Project proposal graphic](https://github.com/ElemehnoP/startup/blob/main/graphicBut.png)
 
-    1/30/2023
+    01/30/2023
 ssh -i "St4b.pem" ubuntu@ec2-3-17-84-3.us-east-2.compute.amazonaws.com
+This is how I ssh into my website
+    02/01/2023
+http://ohmanbigmonkeysareontheirway.click/
+This is the domain name for my website
